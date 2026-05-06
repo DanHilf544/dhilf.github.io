@@ -1,0 +1,44 @@
+body { background-color: #FFFFFF;
+	   color: #666666;
+       font-family: Helvetica, "Lightline Gothic", serif;
+	   
+}
+header { background-color: #720000;
+         color: #FFFFFF;
+         background-position: right;
+         background-repeat: no-repeat;
+         line-height: 400%;
+         text-indent: 1em;
+}
+hi { margin-bottom: 0;
+     font-family: Helvetica, "Lightline Gothic", serif; }
+nav { background-color: #fbbbbb;
+      font-weight: bold; }
+nav a { text-decoration: none; }
+h2 { color: #d21919; 
+     font-family: Helvetica, "Lightline Gothic", serif; }
+h3 { color: #000033;
+     font-family: Helvetica, "Lightline Gothic", serif;
+	 text-align: center;	 }
+ul { list-style-image: url(marker.gif); }
+dt { color: #002171; }
+img {
+	display: block;
+	margin: auto;
+	width: 50%;
+}
+form {
+	padding: 40px;
+	border: 2px solid #ccc;
+	text-align: center;
+}
+table {
+	text-align: center;
+}
+.rock { color: #d21919; 
+          font-weight: bold; }
+#contact { font-size: 90%; }
+footer  { font-size: 75%;
+         font-style: italic;
+		 text-align: center;
+         font-family: Helvetica, "Lightline Gothic", serif; }
